@@ -33,15 +33,11 @@
 
 .carousel-img {
   width: 100%; /* Ensures full width responsiveness */
-  height: 500px; /* Increased height */
+  height: 300px; /* Increased height */
   object-fit: cover; /* Ensures images maintain aspect ratio while covering the space */
   border-radius: 10px; /* Optional: Adds rounded corners for a refined look */
 }
  /* slider for the carousel  */
-
-
-
-
 
 
 
